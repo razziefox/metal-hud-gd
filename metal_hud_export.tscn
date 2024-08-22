@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://4nvbfc0efg5n"]
+
+[ext_resource type="Script" path="res://addons/metal_hud/metal_hud_export.gd" id="1_kpp1p"]
+
+[node name="metal_hud" type="Node"]
+script = ExtResource("1_kpp1p")
